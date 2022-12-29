@@ -1,4 +1,4 @@
-[![MasterHead](https://img.pikbest.com/backgrounds/20190112/simple-blue-technology-banner-background-template_1853826.jpg!bw700)
+![MasterHead](https://img.pikbest.com/backgrounds/20190112/simple-blue-technology-banner-background-template_1853826.jpg!bw700)
 <h1 align="center">Hi 👋, I'm Atul Pratik</h1>
 <h3 align="center">A passionate Data Analytics learner from India</h3>
 <img align = "right" alt ="Coding" width= "400" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif"
